@@ -1,0 +1,13 @@
+.c-scrollbar{
+	width: 250px;
+}
+
+.p-workspace--context-pane-collapsed {
+	grid-template-columns: 250px 
+} 
+
+
+.p-channel_sidebar{
+	width: 250px;
+	font-size: 14px;
+}
